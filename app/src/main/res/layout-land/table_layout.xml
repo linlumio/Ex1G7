@@ -92,13 +92,13 @@
         <TextView
             android:id="@+id/textView13"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="40dp"
             android:layout_margin="3dp"
             android:layout_weight="1"
             android:background="#EEF0F4"
             android:gravity="center"
+            android:paddingVertical="2dp"
             android:text="%"
-            android:paddingVertical="25dp"
             android:textAlignment="center" />
 
         <TextView
@@ -143,13 +143,13 @@
         <TextView
             android:id="@+id/textView17"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="32dp"
             android:layout_margin="3dp"
             android:layout_weight="1"
             android:background="#EEF0F4"
             android:gravity="center"
+            android:paddingVertical="2dp"
             android:text="1/x"
-            android:paddingVertical="25dp"
             android:textAlignment="center" />
 
         <TextView
@@ -194,13 +194,13 @@
         <TextView
             android:id="@+id/textView21"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="47dp"
             android:layout_margin="3dp"
             android:layout_weight="1"
             android:background="#AAFFF8"
             android:gravity="center"
+            android:paddingVertical="2dp"
             android:text="7"
-            android:paddingVertical="25dp"
             android:textAlignment="center" />
 
         <TextView
@@ -245,13 +245,13 @@
         <TextView
             android:id="@+id/textView25"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="45dp"
             android:layout_margin="3dp"
             android:layout_weight="1"
             android:background="#AAFFF8"
             android:gravity="center"
+            android:paddingVertical="2dp"
             android:text="4"
-            android:paddingVertical="25dp"
             android:textAlignment="center" />
 
         <TextView
@@ -296,13 +296,13 @@
         <TextView
             android:id="@+id/textView29"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="39dp"
             android:layout_margin="3dp"
             android:layout_weight="1"
             android:background="#AAFFF8"
             android:gravity="center"
+            android:paddingVertical="2dp"
             android:text="1"
-            android:paddingVertical="25dp"
             android:textAlignment="center" />
 
         <TextView
@@ -353,7 +353,7 @@
             android:background="#AAFFF8"
             android:gravity="center"
             android:text="+/-"
-            android:paddingVertical="25dp"
+            android:paddingVertical="13dp"
             android:textAlignment="center" />
 
         <TextView
